@@ -1,0 +1,54 @@
+.body-btn {
+  padding: 10px 16px;
+  width: 210px;
+  border: none;
+  border-radius: 25px;
+  font-size: 18px;
+}
+.body-big-btn {
+  padding: 11px 18px;
+  width: 300px;
+  border: none;
+  border-radius: 25px;
+  font-size: 18px;
+}
+.body-btn-green {
+  background-color: #04aa6d;
+  color: #fff;
+}
+.body-btn-golden {
+  background-color: #fff4a3;
+  color: #000;
+}
+.body-btn-black {
+  background-color: #282a35;
+  color: #fff;
+}
+.body-btn-pink {
+  background-color: #ffc0c7;
+  color: #000;
+}
+.body-btn-white {
+  background-color: #fff;
+  color: #000;
+}
+
+/* background colors Styles */
+.bg-pink {
+  background-color: #ffc0c7;
+}
+.bg-golden {
+  background-color: #fff4a3;
+}
+.bg-bright-pink {
+  background-color: #f3ecea;
+}
+.bg-bright-green {
+  background-color: #d9eee1;
+}
+.bg-bright-blue {
+  background-color: #96d4d4;
+}
+.bg-bright-gray {
+  background-color: #e7e9eb;
+}
